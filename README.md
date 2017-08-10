@@ -1,5 +1,9 @@
-# XParticle
-A really simple Unity3D/DirectX 11 particle system using compute shaders to handle millions of particles.
+# Form Fractal Visualizer v2
 
-![](https://github.com/antoinefournier/XParticle/blob/master/readme_img_1.png)
-![](https://github.com/antoinefournier/XParticle/blob/master/readme_img_2.png)
+Using Compute shaders to make fractal point clouds
+
+with some VR 3D UI && VRWorks 
+
+
+![](https://github.com/nshelton/form2/blob/master/color7.png)
+![](https://github.com/nshelton/form2/blob/master/color5.png)
